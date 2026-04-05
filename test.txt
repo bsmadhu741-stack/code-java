@@ -1,0 +1,32 @@
+what is java
+java is object orinted programming language highlevel programing language.
+
+explin how java execute
+ the coding by convertingsource code to byte code thatis opening the cmb complier the file using javac filename.java
+ 
+ what is datatype.explain the data type.
+ it tell what kind of values need to be storage inside the varable
+ the datatype is are
+ primtive datatype.
+ nonprimitive datatype.
+ primitie datatype: the data type stores single value is the memory directly primitivedatatype and int char float double bolean
+ nonprimitive datatype:the non primitivedata stores the complex valuclass interface object.
+
+what is variable explian types of variable
+the is conataine used to store data values.
+types are variable
+local variable, prameterized variable,sataice variable,instance variable 
+statice variable:variable decleard inside the calss but outside the method using satice variable.
+local variable:declear anywhere inside the method of a clas
+what is array?
+arraya is collection of element and datatype collection of homagenerselement.
+
+what is methods types of method
+method is a block of code statmentto performs a specifice task.
+types of method are.
+method with on returntype with prameter.
+method with return type and 
+
+what is constructor
+the a special type of method which created when object is called constructor.
+ 
